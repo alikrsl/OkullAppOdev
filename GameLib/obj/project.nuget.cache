@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kq2RS+pBaF94Jt2X4ma9hJM+PSblRAKgBNPoFNWipKEhoOPaIP8NNJKlBLvMpeUAwXsbtq0Z5nLn7lV6upGqYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miche.DESKTOP-64GS1N9\\OneDrive\\Masaüstü\\Okulapp\\GameLib\\GameLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miche.DESKTOP-64GS1N9\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\miche.DESKTOP-64GS1N9\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
